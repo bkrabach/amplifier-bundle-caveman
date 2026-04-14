@@ -1,0 +1,6 @@
+bundle:
+  name: caveman-lite-behavior
+
+context:
+  include:
+    - caveman:context/caveman-lite.md

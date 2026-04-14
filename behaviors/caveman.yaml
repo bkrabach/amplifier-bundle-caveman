@@ -1,0 +1,6 @@
+bundle:
+  name: caveman-behavior
+
+context:
+  include:
+    - caveman:context/caveman-full.md
